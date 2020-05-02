@@ -1,0 +1,22 @@
+{
+    "fuck": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifyfuck-fuck-101652-authRole",
+            "UnauthRoleArn": "arn:aws:iam::759163680649:role/amplify-amplifyfuck-fuck-101652-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::759163680649:role/amplify-amplifyfuck-fuck-101652-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-amplifyfuck-fuck-101652-deployment",
+            "UnauthRoleName": "amplify-amplifyfuck-fuck-101652-unauthRole",
+            "StackName": "amplify-amplifyfuck-fuck-101652",
+            "StackId": "arn:aws:cloudformation:eu-west-1:759163680649:stack/amplify-amplifyfuck-fuck-101652/54e20350-8c4d-11ea-b04c-069d5f57c92e",
+            "AmplifyAppId": "d3b16xvi4g8csi"
+        },
+        "categories": {
+            "auth": {
+                "amplifyfuck1ddd629f": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"2540800942851803\",\"client_secret\":\"3b7839a2a08c41a2789aae5d53b71b8c\"},{\"ProviderName\":\"Google\",\"client_id\":\"1017960781015-iig9k69uc5illc2agqt579ccuggv35gs.apps.googleusercontent.com\",\"client_secret\":\"HkKJbSGqyOx6VOt_v2MOwYlG\"}]"
+                }
+            }
+        }
+    }
+}
